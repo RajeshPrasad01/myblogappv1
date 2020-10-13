@@ -1,4 +1,4 @@
-## myBlog V1
+## myBlog V1 - runs thru Git - CI/CD
 
 
 # Using official light weight Python 3.7
